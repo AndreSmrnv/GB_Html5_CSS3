@@ -314,3 +314,53 @@ body {
   display: block;
   width: 100%;
 }
+
+.purchase {
+  background: radial-gradient(94.87% 15543.47% at 4.58% 100%, #211B19 0%, #4E3326 100%);
+}
+
+.purchase__wrapper {
+  display: flex;
+  justify-content: space-between;
+  padding: 44px 0;
+  text-align: left;
+  color: #fff;
+}
+
+.purchase__wrapper-text {
+  margin-left: 20px;
+}
+
+.purchase-header {
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 28px;
+  line-height: 33px;
+
+}
+
+.purchase-header-color {
+  color: #C7B299;
+}
+
+.purchase-text {
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 18px;
+  line-height: 22px;
+  color: #615855;
+}
+
+.purchase-button {
+  width: 170px;
+  height: 53px;
+  margin-right: 20px;
+  background: #988574;
+  border-radius: 3px;
+  font-family: Roboto, sans-serif;
+  color: #fff;
+  text-transform: uppercase;
+  flex-shrink: 0;
+}
