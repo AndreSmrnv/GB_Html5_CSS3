@@ -680,7 +680,7 @@ body {
 .posts_wrapper {
   display: flex;
   justify-content: center;
-
+  margin-bottom: 54px;
 }
 
 .posts__wrapper-item {
@@ -693,6 +693,11 @@ body {
   border: 1px solid #B3B3B3;
   box-sizing: border-box;
 }
+
+.posts__wrapper-item:last-child {
+  margin-right: 0;
+}
+
 
 .post-bg1 {
   background-image: url('../img/bg_item1.jpg');
@@ -781,4 +786,20 @@ body {
   border-top: 4px solid transparent;
   border-left: 5px solid #C7B299;
   border-bottom: 4px solid transparent;
+}
+
+.posts-btn-left {
+  width: 22px;
+  height: 22px;
+  background-image: url('../img/posts_left.svg');
+  background-size: cover;
+  margin-right: 10px;
+}
+
+.posts-btn-right {
+  width: 22px;
+  height: 22px;
+  background-image: url('../img/posts_right.svg');
+  background-size: cover;
+  margin-left: 10px;
 }
