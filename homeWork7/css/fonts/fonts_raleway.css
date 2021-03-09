@@ -5,7 +5,7 @@
         url('raleway-italic-webfont.woff2') format('woff2'),
         url('raleway-italic-webfont.woff') format('woff'),
         url('raleway-italic-webfont.ttf') format('truetype');
-    font-weight: normal;
+    font-weight: 400;
     font-style: italic;
 
 }
@@ -20,7 +20,7 @@
         url('raleway-light-webfont.woff2') format('woff2'),
         url('raleway-light-webfont.woff') format('woff'),
         url('raleway-light-webfont.ttf') format('truetype');
-    font-weight: normal;
+    font-weight: 300;
     font-style: normal;
 
 }
@@ -35,7 +35,7 @@
         url('raleway-lightitalic-webfont.woff2') format('woff2'),
         url('raleway-lightitalic-webfont.woff') format('woff'),
         url('raleway-lightitalic-webfont.ttf') format('truetype');
-    font-weight: normal;
+    font-weight: 300;
     font-style: italic;
 
 }
@@ -50,7 +50,7 @@
         url('raleway-medium-webfont.woff2') format('woff2'),
         url('raleway-medium-webfont.woff') format('woff'),
         url('raleway-medium-webfont.ttf') format('truetype');
-    font-weight: normal;
+    font-weight: 500;
     font-style: normal;
 
 }
@@ -65,7 +65,7 @@
         url('raleway-mediumitalic-webfont.woff2') format('woff2'),
         url('raleway-mediumitalic-webfont.woff') format('woff'),
         url('raleway-mediumitalic-webfont.ttf') format('truetype');
-    font-weight: normal;
+    font-weight: 500;
     font-style: italic;
 
 }
@@ -80,7 +80,7 @@
         url('raleway-regular-webfont.woff2') format('woff2'),
         url('raleway-regular-webfont.woff') format('woff'),
         url('raleway-regular-webfont.ttf') format('truetype');
-    font-weight: normal;
+    font-weight: 400;
     font-style: normal;
 
 }
@@ -95,7 +95,7 @@
         url('raleway-semibold-webfont.woff2') format('woff2'),
         url('raleway-semibold-webfont.woff') format('woff'),
         url('raleway-semibold-webfont.ttf') format('truetype');
-    font-weight: bold;
+    font-weight: 600;
     font-style: normal;
 
 }
@@ -110,7 +110,7 @@
         url('raleway-semibolditalic-webfont.woff2') format('woff2'),
         url('raleway-semibolditalic-webfont.woff') format('woff'),
         url('raleway-semibolditalic-webfont.ttf') format('truetype');
-    font-weight: bold;
+    font-weight: 600;
     font-style: italic;
 
 }
@@ -125,7 +125,7 @@
         url('raleway-thin-webfont.woff2') format('woff2'),
         url('raleway-thin-webfont.woff') format('woff'),
         url('raleway-thin-webfont.ttf') format('truetype');
-    font-weight: normal;
+    font-weight: 100;
     font-style: normal;
 
 }
@@ -140,7 +140,7 @@
         url('raleway-thinitalic-webfont.woff2') format('woff2'),
         url('raleway-thinitalic-webfont.woff') format('woff'),
         url('raleway-thinitalic-webfont.ttf') format('truetype');
-    font-weight: normal;
+    font-weight: 100;
     font-style: italic;
 
 }
@@ -152,7 +152,7 @@
         url('raleway-black-webfont.woff2') format('woff2'),
         url('raleway-black-webfont.woff') format('woff'),
         url('raleway-black-webfont.ttf') format('truetype');
-    font-weight: normal;
+    font-weight: 900;
     font-style: normal;
 
 }
@@ -167,7 +167,7 @@
         url('raleway-blackitalic-webfont.woff2') format('woff2'),
         url('raleway-blackitalic-webfont.woff') format('woff'),
         url('raleway-blackitalic-webfont.ttf') format('truetype');
-    font-weight: normal;
+    font-weight: 900;
     font-style: italic;
 
 }
@@ -182,7 +182,7 @@
         url('raleway-bold-webfont.woff2') format('woff2'),
         url('raleway-bold-webfont.woff') format('woff'),
         url('raleway-bold-webfont.ttf') format('truetype');
-    font-weight: bold;
+    font-weight: 700;
     font-style: normal;
 
 }
@@ -197,7 +197,7 @@
         url('raleway-bolditalic-webfont.woff2') format('woff2'),
         url('raleway-bolditalic-webfont.woff') format('woff'),
         url('raleway-bolditalic-webfont.ttf') format('truetype');
-    font-weight: bold;
+    font-weight: 700;
     font-style: italic;
 
 }
@@ -212,7 +212,7 @@
         url('raleway-extrabold-webfont.woff2') format('woff2'),
         url('raleway-extrabold-webfont.woff') format('woff'),
         url('raleway-extrabold-webfont.ttf') format('truetype');
-    font-weight: bold;
+    font-weight: 800;
     font-style: normal;
 
 }
@@ -227,7 +227,7 @@
         url('raleway-extrabolditalic-webfont.woff2') format('woff2'),
         url('raleway-extrabolditalic-webfont.woff') format('woff'),
         url('raleway-extrabolditalic-webfont.ttf') format('truetype');
-    font-weight: bold;
+    font-weight: 800;
     font-style: italic;
 
 }
@@ -242,7 +242,7 @@
         url('raleway-extralight-webfont.woff2') format('woff2'),
         url('raleway-extralight-webfont.woff') format('woff'),
         url('raleway-extralight-webfont.ttf') format('truetype');
-    font-weight: normal;
+    font-weight: 200;
     font-style: normal;
 
 }
@@ -257,7 +257,7 @@
         url('raleway-extralightitalic-webfont.woff2') format('woff2'),
         url('raleway-extralightitalic-webfont.woff') format('woff'),
         url('raleway-extralightitalic-webfont.ttf') format('truetype');
-    font-weight: normal;
+    font-weight: 200;
     font-style: italic;
 
 }
