@@ -846,7 +846,8 @@ body {
 }
 
 .footer-info {
-  background-color: #101010;
+  background-color: #191919;
+  ;
   padding: 74px 0;
 }
 
@@ -993,4 +994,28 @@ body {
 
 .widget-item:nth-child(2n+1) {
   margin-right: 8px;
+}
+
+.copyright {
+  padding: 58px 0 41px;
+  background-color: #101010;
+}
+
+.copyright__wrapper {
+  display: flex;
+  justify-content: left;
+}
+
+.copyright-item {
+  margin-left: 25px;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 13px;
+  line-height: 16px;
+  color: #555555;
+}
+
+.copyright-item-faq {
+  color: #BAA78F;
 }
